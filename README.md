@@ -1,3 +1,5 @@
+# Implementation search functionality from scratch with use cases 
+
 🔁 What happens when you type in the search box:
 1. Whatever you type goes into the input
 ➡️ That value is stored in the search state.
